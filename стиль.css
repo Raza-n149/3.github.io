@@ -103,7 +103,7 @@ tbody tr:nth-child(odd) {
   flex-direction: column;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 767px) {
   .main{
     display: contents;
   }
@@ -136,4 +136,5 @@ tbody tr:nth-child(odd) {
       width: 200px;
     }
 }
+
 
