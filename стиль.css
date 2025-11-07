@@ -34,7 +34,7 @@
 .table {
   border-collapse: collapse;
   overflow-x: auto;
-  order: 1;
+  order: -1;
 }
 
 th, td {
@@ -136,3 +136,4 @@ tbody tr:nth-child(odd) {
       width: 200px;
     }
 }
+
